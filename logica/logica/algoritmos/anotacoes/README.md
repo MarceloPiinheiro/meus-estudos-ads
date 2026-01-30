@@ -1,1 +1,1 @@
-Anotações e exercícios
+Anotações
