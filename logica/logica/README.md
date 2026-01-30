@@ -10,4 +10,4 @@ Esta pasta será utilizada para registrar meus primeiros estudos em lógica de p
 - Entrada, processamento e saída
 - Introdução a algoritmos
 
-  Conteúdo em desenvolvimento.
+ Conteúdo em desenvolvimento.
